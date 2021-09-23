@@ -1,4 +1,4 @@
-"""22.Write a program in Python to insert the names of cities accepted from the user into a
+"""Write a program in Python to insert the names of cities accepted from the user into a
 tuple. Display the same to the output screen."""
 t1 = tuple()
 
